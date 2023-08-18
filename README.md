@@ -1,4 +1,5 @@
 ### Hi there 👋
+Currently studying Double Grade of Computer Science and Business Administration and willing to be an x10 engineer!
 
 <!--
 **AlexPMontes/AlexPMontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
