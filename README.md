@@ -1,6 +1,7 @@
 ### Hi there 👋
-Currently studying Double Grade of Computer Science and Business Administration and willing to be an x10 engineer!
+Currently studying B.S. in Computer Science and Business Administration (Dual Degree) and willing to be an x10 engineer!
 
+📊 Focused on Data Science, Machine Learning, and Quantitative Finance (alpha research, modeling, and backtesting).
 <!--
 **AlexPMontes/AlexPMontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
