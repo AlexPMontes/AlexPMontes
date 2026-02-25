@@ -1,7 +1,7 @@
 ### Hi there 👋
-Currently studying B.S. in Computer Science and Business Administration (Dual Degree) and willing to be an x10 engineer!
+Currently studying B.S. in Computer Science and Business Administration (Dual Degree) (GPA 8.52/10.0)
 
-📊 Focused on Data Science, Machine Learning, and Quantitative Finance (alpha research, modeling, and backtesting).
+Passionate about High-Performance Computing, low-level optimization, and Quant Finance.
 <!--
 **AlexPMontes/AlexPMontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
